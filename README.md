@@ -75,8 +75,7 @@ Improve through constant practice
 
 ## General Tips
 - MIT Open courseware has good classes on algorithms and data structures
-- Don't read too much (Try to improve by practice)
+- Don't read too much (Try to improve by practice). For each 100 minutes of CP, 5 minutes should be reading stuff
 - Be careful no to end up trying to learn too advanced techniques, most programming interviews require simpler solutions because they are more reliable and take less time to implement
 - Don't compare yourself to others
 - He has a discord channel https://discord.gg/AneA5wg
-
